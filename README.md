@@ -5,7 +5,7 @@ The objective is to explore unknown information by applying exploratory data ana
 
 ![image](https://github.com/akhil091/titanic-solver/assets/31368316/9ee74ad5-8a17-44b4-a556-41e231ef079e)
 
-## reference
+## references
 Kaggle, Titanic: Machine Learning form Disaster [Online]. Available: http://www.kaggle.com/
 A. Ng. CS229 Notes. Stanford University, 2012
 L. Breiman, “Random Forests,” Machine Learning, vol. 45, pp.5-32, 2001.
