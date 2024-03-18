@@ -1,4 +1,4 @@
-# titanic-solver
+# Predicting Survival on Titanic Disaster
 
 This project is about predicting survivors of Titanic disaster using different machine-learning and feature engineering techniques.
 The objective is to explore unknown information by applying exploratory data analytics on available dataset to determine the correlation between factors to find how many survived. After the results of applying, machine-learning models are compared on the basis of their accuracy.
